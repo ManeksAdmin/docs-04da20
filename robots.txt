@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-obbgsl.jambul126.xyz/sitemap.xml
